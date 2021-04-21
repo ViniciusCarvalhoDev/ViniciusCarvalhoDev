@@ -4,7 +4,7 @@
   <em>Information Systems Undergraduate at</em> <a href="https://ufmg.br/">UFMG</a> 
 </p>
 
-[![Linkedin: viniciuscarvalho](https://img.shields.io/badge/-ViniciusCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-carvalho-developer/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: viniciuscarvalho](https://img.shields.io/badge/-ViniciusCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-carvalho-developer/)](https://www.linkedin.com/in/vinicius-carvalho-developer/)
 [![GitHub ViniciusCarvalhoDev](https://img.shields.io/github/followers/ViniciusCarvalhoDev?label=follow&style=social)](https://github.com/ViniciusCarvalhoDev)
 
 
