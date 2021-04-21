@@ -10,6 +10,14 @@
 [![GitHub ViniciusCarvalhoDev](https://img.shields.io/github/followers/ViniciusCarvalhoDev?label=follow&style=social)](https://github.com/ViniciusCarvalhoDev)
 
 
+```javascript
+const Vinicius = {
+  code: [C#, C, C++, Javascript, HTML, CSS, .NET, Python, SQL],
+  tools: [SQL Server, Visual Studio, VsCode, Jquery, MatplotLib, Pandas, Windowns Server],
+  architecture: ["MVC", "event-driven", "design system pattern"],
+  videogame: ["Unity", "Alegro5"]
+}
+```
 <!--
 **ViniciusCarvalhoDev/ViniciusCarvalhoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
