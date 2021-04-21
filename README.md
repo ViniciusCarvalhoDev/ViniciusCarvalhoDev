@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="![image](https://user-images.githubusercontent.com/51410946/115579685-c7771480-a29c-11eb-8907-6e699dfc103d.png)">
+<h2> Hi, I'm Vinicius Carvalho! 👋</h2>
+<p><em>Software Enginner at </em><a href="https://www.smsdotrabalho.com.br/">SMS Medicina do Trabalho</a></br>
+  <em>Information Systems Undergraduate at</em> <a href="https://ufmg.br/">UFMG</a> 
+</p>
+
+[![Linkedin: viniciuscarvalho](https://img.shields.io/badge/-ViniciusCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-carvalho-developer/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub ViniciusCarvalhoDev](https://img.shields.io/github/followers/ViniciusCarvalhoDev?label=follow&style=social)](https://github.com/ViniciusCarvalhoDev)
+
 
 <!--
 **ViniciusCarvalhoDev/ViniciusCarvalhoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
