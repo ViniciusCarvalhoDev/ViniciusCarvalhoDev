@@ -1,7 +1,8 @@
 ![banner_vinicius](https://user-images.githubusercontent.com/51410946/115581763-afa09000-a29e-11eb-96fa-20a1205487ba.jpg)
-<h2> Hi, I'm Vinicius Carvalho! 👋</h2>
+<h2> Hi, I'm Vinicius Carvalho! 👋 </h2>
 <p><em>Software Enginner at </em><a href="https://www.smsdotrabalho.com.br/">SMS Medicina do Trabalho</a></br>
   <em>Information Systems Undergraduate at</em> <a href="https://ufmg.br/">UFMG</a> 
+  <img align="right" src="https://tenor.com/bv526.gif">
 </p>
 
 [![Linkedin: viniciuscarvalho](https://img.shields.io/badge/-ViniciusCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-carvalho-developer/)](https://www.linkedin.com/in/vinicius-carvalho-developer/)
