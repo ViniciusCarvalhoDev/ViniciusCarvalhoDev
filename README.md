@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/51410946/115579685-c7771480-a29c-11eb-8907-6e699dfc103d.png)">
+![banner_vinicius](https://user-images.githubusercontent.com/51410946/115581763-afa09000-a29e-11eb-96fa-20a1205487ba.jpg)
 <h2> Hi, I'm Vinicius Carvalho! 👋</h2>
 <p><em>Software Enginner at </em><a href="https://www.smsdotrabalho.com.br/">SMS Medicina do Trabalho</a></br>
   <em>Information Systems Undergraduate at</em> <a href="https://ufmg.br/">UFMG</a> 
